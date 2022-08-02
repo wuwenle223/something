@@ -15,9 +15,8 @@ ext {
 
     // 所有模块的 Id
     appId = [
-            app     : "com.demo.arouter",
-            order   : "com.demo.order",
-            personal: "com.demo.personal"
+            app     : "com.example.testapplication",
+
     ]
 
     // 所有模块都使用的依赖才存在这里
